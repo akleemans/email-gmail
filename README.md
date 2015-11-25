@@ -6,9 +6,8 @@ As mentioned in the source, this will only work with a gmail address not using t
 
 You could copy and modify the methods provided, or just simply use it like this:
 
-  import gmail
-  
-  gmail.send_email('from-email@gmail.com', 'password', 'to-email@gmail.com', 'Example subject', 'Example message')
+    import gmail
+    gmail.send_email('from-email@gmail.com', 'password', 'to-email@gmail.com', 'Example subject', 'Example message')
   
 
 
